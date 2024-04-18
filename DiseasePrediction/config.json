@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "77822931759",
+      "project_id": "diseaseprediction-852f7",
+      "storage_bucket": "diseaseprediction-852f7.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:77822931759:android:e0ffa6126ec402f156e7da",
+          "android_client_info": {
+            "package_name": "com.Techsolab.DiseasePrediction"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "77822931759-gvb0fuu364em0muh72stbr68ldb03f7j.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDXIA0pu3IGtwb70Y_PhrezDneo6MY-rp8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "77822931759-gvb0fuu364em0muh72stbr68ldb03f7j.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
